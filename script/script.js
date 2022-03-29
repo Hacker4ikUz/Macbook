@@ -18,7 +18,7 @@ grey.onclick = () =>{
 
 }
 white.onclick = () => {
-    macbook.setAttribute('src', 'file:///C:/Users/Hacker4ik/Desktop/macbook/img/space-grey.png')
+    macbook.setAttribute('src', '../img/space-grey.png')
     white.style.background = '#0071E3';
     white.style.color = '#fff';
     grey.style.background = '#CFE7FF';
